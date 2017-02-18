@@ -1,1 +1,8 @@
+permalink: /:year/:month/:day/:title.html
+
 theme: jekyll-theme-merlot
+# 站点信息
+title: 少女biu～珠宝摊
+subtitle: 金牛座的我为您精打细算
+description: 少女珠宝买手 专业珠宝定制服务
+author: 少女biu～
